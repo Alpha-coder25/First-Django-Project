@@ -12,7 +12,6 @@ platformdirs==4.9.4
 pypiwin32==223
 python-discovery==1.2.2
 pyttsx3==2.99
-pywin32==311
 setuptools==82.0.1
 sqlparse==0.5.3
 tzdata==2025.2
