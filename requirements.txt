@@ -1,6 +1,5 @@
 asgiref==3.9.1
 certifi==2026.2.25
-comtypes==1.4.16
 distlib==0.4.0
 Django==5.2.4
 filelock==3.25.2
